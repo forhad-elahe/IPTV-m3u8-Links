@@ -1,11 +1,11 @@
-# What Is an M3U File?
+# What Is an M3U8 File?
 An M3U file is an Audio Playlist file that stands for MP3 URL, and as such, isn't an actual audio file in and of itself.
 
 An M3U file just points to audio (and sometimes video) files so that a media player can queue them for playback. These text-based files can contain URLs and/or absolute or relative pathnames to the media files and/or folders.
 
 M3U files that are UTF-8 encoded are instead saved in the M3U8 file format.
 
-# How to Open an M3U File
+# How to Open an M3U8 File
 VLC is my favorite free media player because of its support for a huge variety of audio and video formats. Plus, it supports not only the M3U format but also similar playlist file types you may run into, like M3U8, PLS, XSPF, WVX, CONF, ASX, IFO, CUE, and others.
 
 Though Winamp was one of the first programs to support them, other media players can open M3U files too, like 
